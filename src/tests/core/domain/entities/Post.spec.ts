@@ -1,4 +1,4 @@
-import { Post } from '../src/core/domain/entities/Post';
+import { Post } from '../../../../../src/core/domain/entities/Post';
 
 describe('Post', () => {
   it('should create a new Post with title, content, and author', () => {
